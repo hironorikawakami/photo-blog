@@ -1,4 +1,2 @@
 # photo-blog
-railsで写真ブログを作る
-aaaa
-
+Railsで写真ブログを作る
